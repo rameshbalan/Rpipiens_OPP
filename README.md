@@ -21,7 +21,7 @@ multiqc .
 
 ## Align reads to the reference transcriptome:
 
-1. Map each read to the reference transcriptome and estimate the read counts.
+1. Map each read to the reference transcriptome.
 
 ```
 bwa index reference_transcriptome.fasta
@@ -65,6 +65,11 @@ bwa samse reference_transcriptome.fasta Rpip_T5_trim.sai Rpip_T5_trim.fastq > Rp
 
 bwa aln reference_transcriptome.fasta Rpip_T6_trim.fastq > Rpip_T6_trim.sai
 bwa samse reference_transcriptome.fasta Rpip_T6_trim.sai Rpip_T6_trim.fastq > Rpip_T6_trim.sam
+```
+2.Convert SAM to BAM
+
+```
+samtools view -S -b sample.sam > sample.bam
 ```
 
 
