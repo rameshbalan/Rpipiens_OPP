@@ -115,3 +115,18 @@ plotMA(resLFC, ylim=c(-10,10))
 
 ```
 
+## Preliminary Results
+
+1. Number of significantly Upregulated and Downregulated Genes.
+
+```
+out of 142585 with nonzero total read count
+adjusted p-value < 0.05
+LFC > 0 (up)     : 358, 0.25% 
+LFC < 0 (down)   : 351, 0.25% 
+outliers [1]     : 22711, 16% 
+low counts [2]   : 66668, 47% 
+(mean count < 5)
+```
+
+2. Total Number of Differentially Expressed Genes : `709`
