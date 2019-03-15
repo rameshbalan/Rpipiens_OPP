@@ -66,6 +66,13 @@ ddsTxi <- DESeqDataSetFromTximport(txi,
                                    design = ~ condition)
 ddsTxi
 dds <- DESeq(ddsTxi)
-
+res <- results(dds)
+res
+resultsNames(dds)
+resLFC <- lfcShrink(dds, coef="condition_test_vs_control", type="apeglm")
+resLFC
+summary(res)
+#How many adjusted p-values were less than 0.0.05?
+sum(res$padj < 0.05, na.rm=TRUE)
 ```
 
