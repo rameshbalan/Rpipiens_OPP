@@ -53,26 +53,65 @@ salmon quantmerge --quants Rpip_C1_quant Rpip_C4_quant Rpip_T1_quant Rpip_T4_qua
 This R script will look at the correlation between samples of a treatment and plot the differential expression.
 
 ```
+#Importing All the libraries
 library(DESeq2)
 library(tximport)
 library(rjson)
 library(readr)
+library(ashr)
+
+#Reading in the samples file which describes each sample as control/test.
 samples <- read.table("samples.txt", header=TRUE)
+
+#Reading in all the quantification files from all the 12 samples
 files <- file.path("/home/hdd/4/rna_rpipiens/quants", samples$sample, "quant.sf")
 # txOut argument avoid genelevelsummary since gene level information is not available.
 txi <- tximport(files, type="salmon",txOut=TRUE)
+#creating a DE dataset object using the samples file and all the quantification files
 ddsTxi <- DESeqDataSetFromTximport(txi,
                                    colData = samples,
                                    design = ~ condition)
 ddsTxi
+
+# Running Differential Expression
 dds <- DESeq(ddsTxi)
+# Filtering genes with less than or equal to 10 reads across all samples
+keep <- rowSums(counts(dds)) >= 10
+dds <- dds[keep,]
+
+# Running Differential Expression (Again...)
+dds <- DESeq(dds)
+
+# Getting the results from the dataset object 
 res <- results(dds)
 res
+
+#Ordering the file based on the pvalue
+resOrdered <- res[order(res$pvalue),]
+
+# Provides a summary on the number of genes upregulated or downregulated
+summary(res)
 resultsNames(dds)
+
+#Shrinks/Reduces the log fold change(LFC) based on the the control vs test group using apeglm model.  
 resLFC <- lfcShrink(dds, coef="condition_test_vs_control", type="apeglm")
 resLFC
-summary(res)
-#How many adjusted p-values were less than 0.0.05?
-sum(res$padj < 0.05, na.rm=TRUE)
+summary(resLFC)
+
+#How many adjusted p-values were less than 0.1?
+sum(res$padj < 0.1, na.rm=TRUE)
+
+# Getting the results from the dataset object. The default cutoff is 0.1 so changing alpha to 0.05. 
+res05 <- results(dds, alpha=0.05, name = "condition_test_vs_control")
+summary(res05)
+
+# Get the number of genes differentially expressed
+sum(res05$padj < 0.05, na.rm=TRUE)
+
+# Plot the fold change 
+plotMA(resLFC, ylim=c(-10,10))
+#idx <- identify(res$baseMean, res$log2FoldChange)
+#rownames(res)[idx]
+
 ```
 
