@@ -21,6 +21,10 @@ multiqc .
 
 ## Index the transcriptome
 
+```
+salmon index -t reference_transcriptome.fasta -i reference_transcriptome_index
+```
+
 ## Expression Quantification
 
 This shell script will loop through each sample and will quantify the expression
@@ -44,7 +48,8 @@ salmon quantmerge --quants Rpip_C1_quant Rpip_C4_quant Rpip_T1_quant Rpip_T4_qua
 ```
 
 ## Differential Expression Analysis:
-
+//***** In progress
+*****//
 This R script will look at the correlation between samples of a treatment and plot the differential expression.
 
 ```
