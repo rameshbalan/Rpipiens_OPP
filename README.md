@@ -19,63 +19,39 @@ multiqc .
 ```
 > Look at the MultiQC report and see if the adapters are trimmed and do a overall QC inspection.
 
-## Align reads to the reference transcriptome:
+## Index the transcriptome
 
-1. Map each read to the reference transcriptome.
+## Expression Quantification
 
+This shell script will loop through each sample and will quantify the expression
 ```
-bwa index reference_transcriptome.fasta
+#!/bin/bash
+for fn in ../Rpip_C{1..6};
+do
+samp=`basename ${fn}`
+echo "Processing sample ${samp}"
+salmon quant -i reference_transcriptome_index -l A ${fn}/${samp}_trim.fastq -p 8 -o quants/${samp}_quant
+done
+
+for fn in ../Rpip_T{1..6};
+do
+samp=`basename ${fn}`
+echo "Processing sample ${samp}"
+salmon quant -i reference_transcriptome_index -l A ${fn}/${samp}_trim.fastq -p 8 -o quants/${samp}_quant
+done 
+
+salmon quantmerge --quants Rpip_C1_quant Rpip_C4_quant Rpip_T1_quant Rpip_T4_quant Rpip_C2_quant Rpip_C5_quant Rpip_T2_quant Rpip_T5_quant Rpip_C3_quant Rpip_C6_quant Rpip_T3_quant Rpip_T6_quant --output merged_expression
 ```
-
-```
-#!/usr/bin/bash
-
-bwa aln reference_transcriptome.fasta Rpip_C1_trim.fastq > Rpip_C1_trim.sai
-bwa samse reference_transcriptome.fasta Rpip_C1_trim.sai Rpip_C1_trim.fastq > Rpip_C1_trim.sam
-
-bwa aln reference_transcriptome.fasta Rpip_C2_trim.fastq > Rpip_C2_trim.sai
-bwa samse reference_transcriptome.fasta Rpip_C2_trim.sai Rpip_C2_trim.fastq > Rpip_C2_trim.sam
-
-bwa aln reference_transcriptome.fasta Rpip_C3_trim.fastq > Rpip_C3_trim.sai
-bwa samse reference_transcriptome.fasta Rpip_C3_trim.sai Rpip_C3_trim.fastq > Rpip_C3_trim.sam
-
-bwa aln reference_transcriptome.fasta Rpip_C4_trim.fastq > Rpip_C4_trim.sai
-bwa samse reference_transcriptome.fasta Rpip_C4_trim.sai Rpip_C4_trim.fastq > Rpip_C4_trim.sam
-
-bwa aln reference_transcriptome.fasta Rpip_C5_trim.fastq > Rpip_C5_trim.sai
-bwa samse reference_transcriptome.fasta Rpip_C5_trim.sai Rpip_C5_trim.fastq > Rpip_C5_trim.sam
-
-bwa aln reference_transcriptome.fasta Rpip_C6_trim.fastq > Rpip_C6_trim.sai
-bwa samse reference_transcriptome.fasta Rpip_C6_trim.sai Rpip_C6_trim.fastq > Rpip_C6_trim.sam
-
-bwa aln reference_transcriptome.fasta Rpip_T1_trim.fastq > Rpip_T1_trim.sai
-bwa samse reference_transcriptome.fasta Rpip_T1_trim.sai Rpip_T1_trim.fastq > Rpip_T1_trim.sam
-
-bwa aln reference_transcriptome.fasta Rpip_T2_trim.fastq > Rpip_T2_trim.sai
-bwa samse reference_transcriptome.fasta Rpip_T2_trim.sai Rpip_T2_trim.fastq > Rpip_T2_trim.sam
-
-bwa aln reference_transcriptome.fasta Rpip_T3_trim.fastq > Rpip_T3_trim.sai
-bwa samse reference_transcriptome.fasta Rpip_T3_trim.sai Rpip_T3_trim.fastq > Rpip_T3_trim.sam
-
-bwa aln reference_transcriptome.fasta Rpip_T4_trim.fastq > Rpip_T4_trim.sai
-bwa samse reference_transcriptome.fasta Rpip_T4_trim.sai Rpip_T4_trim.fastq > Rpip_T4_trim.sam
-
-bwa aln reference_transcriptome.fasta Rpip_T5_trim.fastq > Rpip_T5_trim.sai
-bwa samse reference_transcriptome.fasta Rpip_T5_trim.sai Rpip_T5_trim.fastq > Rpip_T5_trim.sam
-
-bwa aln reference_transcriptome.fasta Rpip_T6_trim.fastq > Rpip_T6_trim.sai
-bwa samse reference_transcriptome.fasta Rpip_T6_trim.sai Rpip_T6_trim.fastq > Rpip_T6_trim.sam
-```
-2.Convert SAM to BAM
-
-```
-samtools view -S -b sample.sam > sample.bam
-```
-
 
 ## Differential Expression Analysis:
 
+This R script will look at the correlation between samples of a treatment and plot the differential expression.
+
 ```
-$TRINITY_HOME/Analysis/DifferentialExpression/run_DE_analysis.pl --matrix combined_counts.matrix --method DESeq2 --samples_file samples.txt
+require(reshape2)
+require(DESeq2)
+expression_f <- read.table("merged_expression.tsv", header = TRUE, row.names=1)
+expDesign <- data.frame(row.names = colnames(expression_f),condition = c("control","control","test","test","control","control","test","test","control","control","test","test"))
+
 ```
 
