@@ -53,10 +53,19 @@ salmon quantmerge --quants Rpip_C1_quant Rpip_C4_quant Rpip_T1_quant Rpip_T4_qua
 This R script will look at the correlation between samples of a treatment and plot the differential expression.
 
 ```
-require(tximportData)
-require(DESeq2)
-expression_f <- read.table("merged_expression.tsv", header = TRUE, row.names=1)
-expDesign <- data.frame(row.names = colnames(expression_f),condition = c("control","control","test","test","control","control","test","test","control","control","test","test"))
+library(DESeq2)
+library(tximport)
+library(rjson)
+library(readr)
+samples <- read.table("samples.txt", header=TRUE)
+files <- file.path("/home/hdd/4/rna_rpipiens/quants", samples$sample, "quant.sf")
+# txOut argument avoid genelevelsummary since gene level information is not available.
+txi <- tximport(files, type="salmon",txOut=TRUE)
+ddsTxi <- DESeqDataSetFromTximport(txi,
+                                   colData = samples,
+                                   design = ~ condition)
+ddsTxi
+dds <- DESeq(ddsTxi)
 
 ```
 
