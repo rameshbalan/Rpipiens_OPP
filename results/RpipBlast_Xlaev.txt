@@ -1,0 +1,472 @@
+"Query"	"Lowest E-value"	"Description (E-value)"
+Rana_pipiens_Transcript_004127	1.25E-7	BP718089 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL438i06ex 3', mRNA sequence
+Rana_pipiens_Transcript_005302	0.0169377	AGENCOURT_13997864 NICHD_XGC_Tad1 Xenopus laevis cDNA clone IMAGE:6937778 5', mRNA sequence
+Rana_pipiens_Transcript_006037	2.742E-151	AGENCOURT_90759658 NICHD_XGC_int_m Xenopus laevis cDNA clone IMAGE:8823121 5', mRNA sequence
+Rana_pipiens_Transcript_007487	1.119E-154	AGENCOURT_8098614 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGE:5570838 5', mRNA sequence
+Rana_pipiens_Transcript_007788		not available
+Rana_pipiens_Transcript_008016		not available
+Rana_pipiens_Transcript_009811	4.473E-145	BJ625404 NIBB Mochii normalized Xenopus early gastrula library Xenopus laevis cDNA clone XL211h15 5', mRNA sequence
+Rana_pipiens_Transcript_010934		not available
+Rana_pipiens_Transcript_011387	1.46E-128	DC121979 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone xl296d04 5', mRNA sequence
+Rana_pipiens_Transcript_011900	1.31642	AGENCOURT_69684691 NICHD_XGC_Emb10 Xenopus laevis cDNA clone IMAGE:8317813 5', mRNA sequence
+Rana_pipiens_Transcript_013766	8.933E-126	DC054446 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone xlk5l09ex 5', mRNA sequence
+Rana_pipiens_Transcript_014062	3.033E-104	DC013238 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone rxlk133k17ex 3', mRNA sequence
+Rana_pipiens_Transcript_014063	2.997E-104	DC013238 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone rxlk133k17ex 3', mRNA sequence
+Rana_pipiens_Transcript_015639		not available
+Rana_pipiens_Transcript_015920		not available
+Rana_pipiens_Transcript_018432		not available
+Rana_pipiens_Transcript_022409		not available
+Rana_pipiens_Transcript_023205	2.074E-171	BX854693 Soares NXEG Xenopus laevis cDNA clone IMAGp998G238089; IMAGE:3302446 5', mRNA sequence
+Rana_pipiens_Transcript_023251		not available
+Rana_pipiens_Transcript_023732		not available
+Rana_pipiens_Transcript_024734		not available
+Rana_pipiens_Transcript_024761		not available
+Rana_pipiens_Transcript_024877		not available
+Rana_pipiens_Transcript_028303		not available
+Rana_pipiens_Transcript_028312	3.091E-89	AGENCOURT_10493775 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6640110 5', mRNA sequence
+Rana_pipiens_Transcript_029821	1.376E-45	DC113942 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone xl267e18 5', mRNA sequence
+Rana_pipiens_Transcript_029962	5.829E-127	BX852050 Wellcome CRC pRN3 dorsal lip Xenopus laevis cDNA clone IMAGp998K038489; IMAGE:3473786 5', mRNA sequence
+Rana_pipiens_Transcript_029965	5.86E-127	BX852050 Wellcome CRC pRN3 dorsal lip Xenopus laevis cDNA clone IMAGp998K038489; IMAGE:3473786 5', mRNA sequence
+Rana_pipiens_Transcript_029966	5.768E-127	BX852050 Wellcome CRC pRN3 dorsal lip Xenopus laevis cDNA clone IMAGp998K038489; IMAGE:3473786 5', mRNA sequence
+Rana_pipiens_Transcript_030062	1.93E-85	DC099520 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone rxl317i20 3', mRNA sequence
+Rana_pipiens_Transcript_030063		not available
+Rana_pipiens_Transcript_030064		not available
+Rana_pipiens_Transcript_030069		not available
+Rana_pipiens_Transcript_031634	9.119E-92	xl11074G05R_1382845 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11074G05 3', mRNA sequence
+Rana_pipiens_Transcript_032583	1.124E-74	xl11076E01R_1383214 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11076E01 3', mRNA sequence
+Rana_pipiens_Transcript_032594	2.823E-78	BJ092222 NIBB Mochii normalized Xenopus tailbud library Xenopus laevis cDNA clone XL064i06 3', mRNA sequence
+Rana_pipiens_Transcript_034142	1.574E-175	AGENCOURT_56021532 NICHD_XGC_FaBN Xenopus laevis cDNA clone IMAGE:8077577 5', mRNA sequence
+Rana_pipiens_Transcript_034665		not available
+Rana_pipiens_Transcript_036287	6.934E-59	DC095476 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone rxl327m24 3', mRNA sequence
+Rana_pipiens_Transcript_037459	9.887E-148	AGENCOURT_55139795 NICHD_XGC_Emb9 Xenopus laevis cDNA clone IMAGE:7978000 5', mRNA sequence
+Rana_pipiens_Transcript_037946		not available
+Rana_pipiens_Transcript_040017		not available
+Rana_pipiens_Transcript_040901		not available
+Rana_pipiens_Transcript_040903		not available
+Rana_pipiens_Transcript_041028		not available
+Rana_pipiens_Transcript_042529		not available
+Rana_pipiens_Transcript_042531	3.078E-171	BP695146 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL476k05ex 5', mRNA sequence
+Rana_pipiens_Transcript_042533	1.954E-31	BJ638975 NIBB Mochii normalized Xenopus early gastrula library Xenopus laevis cDNA clone XL200h17 3', mRNA sequence
+Rana_pipiens_Transcript_042534	3.372E-171	BP695146 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL476k05ex 5', mRNA sequence
+Rana_pipiens_Transcript_048338	1.245E-35	DC041940 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone xlk119o12ex 5', mRNA sequence
+Rana_pipiens_Transcript_048344	6.597E-60	xl11075B09R_1383089 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11075B09 3', mRNA sequence
+Rana_pipiens_Transcript_051210		not available
+Rana_pipiens_Transcript_052251	7.912E-134	AGENCOURT_10308165 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:5084135 5', mRNA sequence
+Rana_pipiens_Transcript_052751		not available
+Rana_pipiens_Transcript_052777	6.809E-140	xl11008B01R_1374419 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11008B01 3', mRNA sequence
+Rana_pipiens_Transcript_053101		not available
+Rana_pipiens_Transcript_057057		not available
+Rana_pipiens_Transcript_058966		not available
+Rana_pipiens_Transcript_058967		not available
+Rana_pipiens_Transcript_062793		not available
+Rana_pipiens_Transcript_065174	1.796E-51	AGENCOURT_14011332 NICHD_XGC_Tad1 Xenopus laevis cDNA clone IMAGE:6940195 5', mRNA sequence
+Rana_pipiens_Transcript_068328	1.907E-116	AGENCOURT_10801946 Wellcome CRC pSK egg Xenopus laevis cDNA clone IMAGE:6323817 5', mRNA sequence
+Rana_pipiens_Transcript_068521	3.673E-151	AGENCOURT_10315923 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:5154946 5', mRNA sequence
+Rana_pipiens_Transcript_069491	9.754E-75	AGENCOURT_10316298 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:5083712 5', mRNA sequence
+Rana_pipiens_Transcript_070199	4.252E-111	BJ639853 NIBB Mochii normalized Xenopus early gastrula library Xenopus laevis cDNA clone XL203k22 3', mRNA sequence
+Rana_pipiens_Transcript_070275	2.552E-24	AGENCOURT_74349767 NICHD_XGC_limb_m Xenopus laevis cDNA clone IMAGE:8534149 5', mRNA sequence
+Rana_pipiens_Transcript_071024	1.154E-68	BJ066773 NIBB Mochii normalized Xenopus tailbud library Xenopus laevis cDNA clone XL088c16 5', mRNA sequence
+Rana_pipiens_Transcript_071028	1.808E-68	BJ066773 NIBB Mochii normalized Xenopus tailbud library Xenopus laevis cDNA clone XL088c16 5', mRNA sequence
+Rana_pipiens_Transcript_073648	6.187E-176	AGENCOURT_14214422 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6946739 5', mRNA sequence
+Rana_pipiens_Transcript_073649	6.115E-176	AGENCOURT_14214422 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6946739 5', mRNA sequence
+Rana_pipiens_Transcript_077688	4.788E-174	BP708649 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL495i13ex 5', mRNA sequence
+Rana_pipiens_Transcript_079797	0.798789	DC104469 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone xl235p17 5', mRNA sequence
+Rana_pipiens_Transcript_083366	1.943E-173	DC025004 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone rxlk72c13ex 3', mRNA sequence
+Rana_pipiens_Transcript_084046	9.903E-93	AGENCOURT_13999564 NICHD_XGC_Tad1 Xenopus laevis cDNA clone IMAGE:6937668 5', mRNA sequence
+Rana_pipiens_Transcript_085973		not available
+Rana_pipiens_Transcript_087356	8.759E-171	BP707091 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL519l13ex 5', mRNA sequence
+Rana_pipiens_Transcript_089070	3.449E-68	AGENCOURT_15596567 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:7020566 5', mRNA sequence
+Rana_pipiens_Transcript_093078		not available
+Rana_pipiens_Transcript_093152		not available
+Rana_pipiens_Transcript_094960		not available
+Rana_pipiens_Transcript_095502	4.744E-78	daa31b01.y1 NICHD_XGC_Lu1 Xenopus laevis cDNA clone IMAGE:4057680 5' similar to TR:O95875 O95875 BAT2, mRNA sequence
+Rana_pipiens_Transcript_097418	2.51E-155	DC043526 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone xlk124l03ex 5', mRNA sequence
+Rana_pipiens_Transcript_098153	0.381198	AGENCOURT_15596365 NICHD_XGC_Brn1 Xenopus laevis cDNA clone IMAGE:7018912 5', mRNA sequence
+Rana_pipiens_Transcript_098255	1.728E-96	AGENCOURT_8095101 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGE:5542458 5', mRNA sequence
+Rana_pipiens_Transcript_098823	0	BX845577 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGp998L099549; IMAGE:4202648 5', mRNA sequence
+Rana_pipiens_Transcript_099122	1.442E-52	AGENCOURT_74337069 NICHD_XGC_tail_m Xenopus laevis cDNA clone IMAGE:8543468 5', mRNA sequence
+Rana_pipiens_Transcript_099635	4.004E-100	AGENCOURT_11263797 NICHD_XGC_Tad2 Xenopus laevis cDNA clone IMAGE:6876233 5', mRNA sequence
+Rana_pipiens_Transcript_100060	4.077E-170	AGENCOURT_14215956 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6947250 5', mRNA sequence
+Rana_pipiens_Transcript_100064		not available
+Rana_pipiens_Transcript_100066		not available
+Rana_pipiens_Transcript_102042	1.066E-179	DC015278 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone rxlk140c05ex 3', mRNA sequence
+Rana_pipiens_Transcript_103309		not available
+Rana_pipiens_Transcript_103314	8.435E-96	AGENCOURT_55716382 NICHD_XGC_FaBN Xenopus laevis cDNA clone IMAGE:8076508 5', mRNA sequence
+Rana_pipiens_Transcript_106561		not available
+Rana_pipiens_Transcript_106721	4.092E-151	AGENCOURT_39734152 NICHD_XGC_Te2N Xenopus laevis cDNA clone IMAGE:7764531 5', mRNA sequence
+Rana_pipiens_Transcript_106783		not available
+Rana_pipiens_Transcript_107172	1.758E-137	BP700707 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL490i23ex 5', mRNA sequence
+Rana_pipiens_Transcript_107671	8.99E-142	xl11035H01F_1351707 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11035H01 5', mRNA sequence
+Rana_pipiens_Transcript_107678	4.191E-34	BJ055883 NIBB Mochii normalized Xenopus neurula library Xenopus laevis cDNA clone XL050p23 3', mRNA sequence
+Rana_pipiens_Transcript_111108	9.209E-39	AGENCOURT_73656268 NICHD_XGC_olfb Xenopus laevis cDNA clone IMAGE:8539844 5', mRNA sequence
+Rana_pipiens_Transcript_112942		not available
+Rana_pipiens_Transcript_112961		not available
+Rana_pipiens_Transcript_113120		not available
+Rana_pipiens_Transcript_113124		not available
+Rana_pipiens_Transcript_113152	6.696E-123	AGENCOURT_27973518 Blumberg_Cho dorsal blastopore lip Xenopus laevis cDNA clone IMAGE:7296999 3', mRNA sequence
+Rana_pipiens_Transcript_113331	7.967E-38	xl11015H04F_1289879 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11015H04 5', mRNA sequence
+Rana_pipiens_Transcript_113351	0	AGENCOURT_14233740 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6958458 5', mRNA sequence
+Rana_pipiens_Transcript_113484	5.329E-159	BP705924 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL516f10ex 5', mRNA sequence
+Rana_pipiens_Transcript_113843	2.335E-19	AGENCOURT_19149320 NICHD_XGC_Te2 Xenopus laevis cDNA clone IMAGE:7207568 5', mRNA sequence
+Rana_pipiens_Transcript_113889	1.554E-65	DC119286 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone xl286h06 5', mRNA sequence
+Rana_pipiens_Transcript_113893	2.257E-65	DC130567 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone xl325b23 5', mRNA sequence
+Rana_pipiens_Transcript_113958	3.887E-159	AGENCOURT_14233207 NICHD_XGC_Brn1 Xenopus laevis cDNA clone IMAGE:6955719 5', mRNA sequence
+Rana_pipiens_Transcript_114014	3.039E-158	AGENCOURT_14233207 NICHD_XGC_Brn1 Xenopus laevis cDNA clone IMAGE:6955719 5', mRNA sequence
+Rana_pipiens_Transcript_114188		not available
+Rana_pipiens_Transcript_114886		not available
+Rana_pipiens_Transcript_114904		not available
+Rana_pipiens_Transcript_114934	1.615E-54	AGENCOURT_14218855 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6947076 5', mRNA sequence
+Rana_pipiens_Transcript_115125		not available
+Rana_pipiens_Transcript_115403	7.319E-26	DC033767 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone xlk54b12ex 5', mRNA sequence
+Rana_pipiens_Transcript_115440	2.333E-68	AGENCOURT_11245555 NICHD_XGC_Tad2 Xenopus laevis cDNA clone IMAGE:6872788 5', mRNA sequence
+Rana_pipiens_Transcript_115943		not available
+Rana_pipiens_Transcript_116096		not available
+Rana_pipiens_Transcript_116811	1.948E-153	AGENCOURT_14234771 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6958911 5', mRNA sequence
+Rana_pipiens_Transcript_117174	0.430791	AGENCOURT_11278884 Wellcome CRC pSK egg Xenopus laevis cDNA clone IMAGE:6871608 5', mRNA sequence
+Rana_pipiens_Transcript_117345		not available
+Rana_pipiens_Transcript_117513		not available
+Rana_pipiens_Transcript_117616	2.128E-32	AGENCOURT_87456543 NICHD_XGC_panc Xenopus laevis cDNA clone IMAGE:8734744 3', mRNA sequence
+Rana_pipiens_Transcript_118000		not available
+Rana_pipiens_Transcript_118001		not available
+Rana_pipiens_Transcript_118164	1.226E-127	xl11079H10R_1384032 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11079H10 3', mRNA sequence
+Rana_pipiens_Transcript_118219	0	BX847934 NICHD_XGC_Sp1 Xenopus laevis cDNA clone IMAGp998F019473; IMAGE:4173312 5', mRNA sequence
+Rana_pipiens_Transcript_118597	2.95386	AGENCOURT_10184088 NICHD_XGC_Ov1 Xenopus laevis cDNA clone IMAGE:6318340 5', mRNA sequence
+Rana_pipiens_Transcript_119295		not available
+Rana_pipiens_Transcript_119939	1.193E-177	BP686174 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL450i05ex 5', mRNA sequence
+Rana_pipiens_Transcript_120336	9.46E-135	AGENCOURT_10184371 NICHD_XGC_Ov1 Xenopus laevis cDNA clone IMAGE:6318286 5', mRNA sequence
+Rana_pipiens_Transcript_120366	3.428E-161	AGENCOURT_10487334 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6639040 5', mRNA sequence
+Rana_pipiens_Transcript_120483		not available
+Rana_pipiens_Transcript_121555		not available
+Rana_pipiens_Transcript_121582		not available
+Rana_pipiens_Transcript_122021	4.266E-148	AGENCOURT_14214394 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6946927 5', mRNA sequence
+Rana_pipiens_Transcript_122138	1.23E-48	AGENCOURT_19145630 NICHD_XGC_Te2 Xenopus laevis cDNA clone IMAGE:7210769 5', mRNA sequence
+Rana_pipiens_Transcript_122467		not available
+Rana_pipiens_Transcript_123116		not available
+Rana_pipiens_Transcript_123235	6.42E-172	AGENCOURT_13054630 NICHD_XGC_Kid1 Xenopus laevis cDNA clone IMAGE:4031992 5', mRNA sequence
+Rana_pipiens_Transcript_123292	6.766E-43	AGENCOURT_13842726 NICHD_XGC_Tad2 Xenopus laevis cDNA clone IMAGE:6932120 5', mRNA sequence
+Rana_pipiens_Transcript_123432		not available
+Rana_pipiens_Transcript_123435		not available
+Rana_pipiens_Transcript_123478	2.072E-130	AGENCOURT_74350037 NICHD_XGC_limb_m Xenopus laevis cDNA clone IMAGE:8534274 5', mRNA sequence
+Rana_pipiens_Transcript_123505		not available
+Rana_pipiens_Transcript_126054	7.35E-176	DC012914 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone rxlk132j14ex 3', mRNA sequence
+Rana_pipiens_Transcript_126307	0.458087	AGENCOURT_55952776 NICHD_XGC_FaB Xenopus laevis cDNA clone IMAGE:8069431 3', mRNA sequence
+Rana_pipiens_Transcript_126556	1.012E-160	AGENCOURT_10493447 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6642226 5', mRNA sequence
+Rana_pipiens_Transcript_126612		not available
+Rana_pipiens_Transcript_126623		not available
+Rana_pipiens_Transcript_126897	3.682E-145	AGENCOURT_55953455 NICHD_XGC_FaB Xenopus laevis cDNA clone IMAGE:8070739 5', mRNA sequence
+Rana_pipiens_Transcript_127034	5.991E-146	BX844974 NICHD_XGC_Lu1 Xenopus laevis cDNA clone IMAGp998I019328; IMAGE:4057800 5', mRNA sequence
+Rana_pipiens_Transcript_127268	5.671E-114	AGENCOURT_11041692 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:6866249 5', mRNA sequence
+Rana_pipiens_Transcript_127270	1.969E-135	DC132573 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone xl331l15 5', mRNA sequence
+Rana_pipiens_Transcript_127429		not available
+Rana_pipiens_Transcript_127882	1.3559	AGENCOURT_78604139 NICHD_XGC_limb Xenopus laevis cDNA clone IMAGE:8637989 3', mRNA sequence
+Rana_pipiens_Transcript_128585	3.726E-20	AGENCOURT_90754823 NICHD_XGC_int_m Xenopus laevis cDNA clone IMAGE:8822123 5', mRNA sequence
+Rana_pipiens_Transcript_128696	8.322E-158	BX852161 NICHD_XGC_Brn1 Xenopus laevis cDNA clone IMAGp998I2010584; IMAGE:4740955 5', mRNA sequence
+Rana_pipiens_Transcript_129208	4.636E-45	AGENCOURT_14166640 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6945978 5', mRNA sequence
+Rana_pipiens_Transcript_129996		not available
+Rana_pipiens_Transcript_130331		not available
+Rana_pipiens_Transcript_130471	1.913E-116	BX854340 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGp998A1410853; IMAGE:4930453 5', mRNA sequence
+Rana_pipiens_Transcript_130543	3.755E-11	DC106330 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone xl241p12 5', mRNA sequence
+Rana_pipiens_Transcript_131011	1.281E-69	BX847275 NICHD_XGC_Sp1 Xenopus laevis cDNA clone IMAGp998G019474; IMAGE:4173720 5', mRNA sequence
+Rana_pipiens_Transcript_131013		not available
+Rana_pipiens_Transcript_131695		not available
+Rana_pipiens_Transcript_131730		not available
+Rana_pipiens_Transcript_132128		not available
+Rana_pipiens_Transcript_132139	3.918E-96	AGENCOURT_10456669 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:6630694 5', mRNA sequence
+Rana_pipiens_Transcript_132767	1.444E-162	AGENCOURT_89901373 NICHD_XGC_int_m Xenopus laevis cDNA clone IMAGE:8821838 5', mRNA sequence
+Rana_pipiens_Transcript_132841	6.785E-154	AGENCOURT_14218960 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6946075 5', mRNA sequence
+Rana_pipiens_Transcript_132846	8.038E-169	AGENCOURT_8214880 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGE:4724710 5', mRNA sequence
+Rana_pipiens_Transcript_133246	1.395E-128	AGENCOURT_8670905 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGE:4681325 5', mRNA sequence
+Rana_pipiens_Transcript_133249	5.519E-136	AGENCOURT_10493649 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6642454 5', mRNA sequence
+Rana_pipiens_Transcript_133251	5.514E-136	AGENCOURT_10493649 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6642454 5', mRNA sequence
+Rana_pipiens_Transcript_133800	1.77E-97	BJ069862 NIBB Mochii normalized Xenopus tailbud library Xenopus laevis cDNA clone XL054m21 5', mRNA sequence
+Rana_pipiens_Transcript_134370	0	AGENCOURT_11240635 Wellcome CRC pSK egg Xenopus laevis cDNA clone IMAGE:6867236 5', mRNA sequence
+Rana_pipiens_Transcript_135701	8.563E-144	AGENCOURT_11108261 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:6863553 5', mRNA sequence
+Rana_pipiens_Transcript_135992		not available
+Rana_pipiens_Transcript_136289	4.85E-112	BX849948 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGp998C0110623; IMAGE:4757304 5', mRNA sequence
+Rana_pipiens_Transcript_136296	4.807E-112	BX849948 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGp998C0110623; IMAGE:4757304 5', mRNA sequence
+Rana_pipiens_Transcript_136297	4.812E-112	BX849948 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGp998C0110623; IMAGE:4757304 5', mRNA sequence
+Rana_pipiens_Transcript_136558	4.707E-150	AGENCOURT_10801975 Wellcome CRC pSK egg Xenopus laevis cDNA clone IMAGE:6323771 5', mRNA sequence
+Rana_pipiens_Transcript_136648	5.136E-162	AGENCOURT_14238713 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6957840 5', mRNA sequence
+Rana_pipiens_Transcript_136822	1.581E-173	AGENCOURT_10768142 Wellcome CRC pSK egg Xenopus laevis cDNA clone IMAGE:6323465 5', mRNA sequence
+Rana_pipiens_Transcript_136826		not available
+Rana_pipiens_Transcript_137155		not available
+Rana_pipiens_Transcript_139314		not available
+Rana_pipiens_Transcript_139600		not available
+Rana_pipiens_Transcript_139722	3.902E-104	xl11057F03F_1379093 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11057F03 5', mRNA sequence
+Rana_pipiens_Transcript_139788	1.541E-163	DC126056 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone xl310b07 5', mRNA sequence
+Rana_pipiens_Transcript_140282	4.892E-18	AGENCOURT_90753483 NICHD_XGC_int_m Xenopus laevis cDNA clone IMAGE:8820754 5', mRNA sequence
+Rana_pipiens_Transcript_140366	7.412E-51	BP694522 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL474m05ex 5', mRNA sequence
+Rana_pipiens_Transcript_140378	1.05E-58	AGENCOURT_18786217 NICHD_XGC_Te2N Xenopus laevis cDNA clone IMAGE:7205362 5', mRNA sequence
+Rana_pipiens_Transcript_140975	7.123E-62	dg15f07.y1 Xenopus laevis gastrula non normalized Xenopus laevis cDNA clone IMAGE:3749124 5' similar to TR:O95834 O95834 ECHINODERM MICROTUBULE-ASSOCIATED PROTEIN-LIKE EMAP2. [1], mRNA sequence
+Rana_pipiens_Transcript_141016	4.064E-81	xl11019C03F_1290287 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11019C03 5', mRNA sequence
+Rana_pipiens_Transcript_142482	4.542E-3	AGENCOURT_10484162 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:6632415 5', mRNA sequence
+Rana_pipiens_Transcript_143156	0.266513	BJ069884 NIBB Mochii normalized Xenopus tailbud library Xenopus laevis cDNA clone XL054o05 5', mRNA sequence
+Rana_pipiens_Transcript_143320	5.143E-171	AGENCOURT_10316052 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:5154757 5', mRNA sequence
+Rana_pipiens_Transcript_143910	0.0263103	BJ062758 NIBB Mochii normalized Xenopus tailbud library Xenopus laevis cDNA clone XL068p17 5', mRNA sequence
+Rana_pipiens_Transcript_144366		not available
+Rana_pipiens_Transcript_144561	1.044E-30	AGENCOURT_14238574 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6957975 5', mRNA sequence
+Rana_pipiens_Transcript_144896	9.058E-167	AGENCOURT_14214535 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6946801 5', mRNA sequence
+Rana_pipiens_Transcript_144898	9.165E-167	AGENCOURT_14214535 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6946801 5', mRNA sequence
+Rana_pipiens_Transcript_144982	2.237E-104	AGENCOURT_89899974 NICHD_XGC_int_m Xenopus laevis cDNA clone IMAGE:8823291 5', mRNA sequence
+Rana_pipiens_Transcript_145132		not available
+Rana_pipiens_Transcript_145523		not available
+Rana_pipiens_Transcript_145639		not available
+Rana_pipiens_Transcript_145649	4.253E-102	AGENCOURT_86333868 NICHD_XGC_panc Xenopus laevis cDNA clone IMAGE:8736819 5', mRNA sequence
+Rana_pipiens_Transcript_146713		not available
+Rana_pipiens_Transcript_146854	1.038E-84	dae01e01.y1 NICHD_XGC_Lu1 Xenopus laevis cDNA clone IMAGE:4633032 5' similar to TR:O76050 O76050 NEURALIZED HOMOLOG, mRNA sequence
+Rana_pipiens_Transcript_146887		not available
+Rana_pipiens_Transcript_146901		not available
+Rana_pipiens_Transcript_147213	2.338E-102	AGENCOURT_10456708 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:6630840 5', mRNA sequence
+Rana_pipiens_Transcript_147581	1.915E-137	AGENCOURT_14233162 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6959220 5', mRNA sequence
+Rana_pipiens_Transcript_147586	1.542E-137	AGENCOURT_14233162 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6959220 5', mRNA sequence
+Rana_pipiens_Transcript_147599	1.566E-137	AGENCOURT_14233162 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6959220 5', mRNA sequence
+Rana_pipiens_Transcript_147600	1.539E-137	AGENCOURT_14233162 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6959220 5', mRNA sequence
+Rana_pipiens_Transcript_147603	1.267E-137	AGENCOURT_14233162 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6959220 5', mRNA sequence
+Rana_pipiens_Transcript_147911	8.577E-122	AGENCOURT_69759570 NICHD_XGC_Emb10 Xenopus laevis cDNA clone IMAGE:8318445 5', mRNA sequence
+Rana_pipiens_Transcript_148267		not available
+Rana_pipiens_Transcript_148360		not available
+Rana_pipiens_Transcript_149362		not available
+Rana_pipiens_Transcript_149445		not available
+Rana_pipiens_Transcript_149471	6.87E-163	AGENCOURT_39798950 NICHD_XGC_Te2N Xenopus laevis cDNA clone IMAGE:7767975 5', mRNA sequence
+Rana_pipiens_Transcript_150581	3.498E-106	AGENCOURT_54836023 NICHD_XGC_Emb9 Xenopus laevis cDNA clone IMAGE:7974647 5', mRNA sequence
+Rana_pipiens_Transcript_151467	7.653E-144	AGENCOURT_10465328 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:6631626 5', mRNA sequence
+Rana_pipiens_Transcript_152711	7.039E-54	BP691985 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL467a04ex 5', mRNA sequence
+Rana_pipiens_Transcript_152819		not available
+Rana_pipiens_Transcript_153303	4.189E-150	AGENCOURT_14233624 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6958378 5', mRNA sequence
+Rana_pipiens_Transcript_153459		not available
+Rana_pipiens_Transcript_153728		not available
+Rana_pipiens_Transcript_153840	1.301E-69	AGENCOURT_14149135 NICHD_XGC_Brn1 Xenopus laevis cDNA clone IMAGE:6949713 5', mRNA sequence
+Rana_pipiens_Transcript_154165	9.549E-101	AGENCOURT_14292475 NICHD_XGC_Brn1 Xenopus laevis cDNA clone IMAGE:6954549 5', mRNA sequence
+Rana_pipiens_Transcript_154292	1.419E-12	da93e02.y1 Xenopus laevis tadpole stage 24 Xenopus laevis cDNA 5' similar to TR:O14498 O14498 ISLR PRECURSOR, mRNA sequence
+Rana_pipiens_Transcript_154482	5.16E-168	AGENCOURT_10496892 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6643521 5', mRNA sequence
+Rana_pipiens_Transcript_154559	0	AGENCOURT_11041526 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:6865662 5', mRNA sequence
+Rana_pipiens_Transcript_154696	6.864E-120	AGENCOURT_55791468 NICHD_XGC_FaBN Xenopus laevis cDNA clone IMAGE:8075572 5', mRNA sequence
+Rana_pipiens_Transcript_154697	6.869E-120	AGENCOURT_55791468 NICHD_XGC_FaBN Xenopus laevis cDNA clone IMAGE:8075572 5', mRNA sequence
+Rana_pipiens_Transcript_156053	8.83E-31	BP680936 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL436e16ex 5', mRNA sequence
+Rana_pipiens_Transcript_156075	1.944E-120	AGENCOURT_86401731 NICHD_XGC_bone Xenopus laevis cDNA clone IMAGE:8742539 5', mRNA sequence
+Rana_pipiens_Transcript_156525	9.616E-130	AGENCOURT_14216832 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6945700 5', mRNA sequence
+Rana_pipiens_Transcript_157005		not available
+Rana_pipiens_Transcript_157351	9.959E-80	AGENCOURT_31519985 NICHD_XGC_Te2 Xenopus laevis cDNA clone IMAGE:7390745 3', mRNA sequence
+Rana_pipiens_Transcript_157636	3.236E-51	xl11025F09R_1376267 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11025F09 3', mRNA sequence
+Rana_pipiens_Transcript_157717	2.503E-11	AGENCOURT_55800758 NICHD_XGC_FaB Xenopus laevis cDNA clone IMAGE:8070482 5', mRNA sequence
+Rana_pipiens_Transcript_157978	3.427E-157	AGENCOURT_89911538 NICHD_XGC_int_m Xenopus laevis cDNA clone IMAGE:8824648 5', mRNA sequence
+Rana_pipiens_Transcript_158725	2.328E-147	AGENCOURT_14234997 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6957646 5', mRNA sequence
+Rana_pipiens_Transcript_158757	7.461E-41	DC038614 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone xlk109e16ex 5', mRNA sequence
+Rana_pipiens_Transcript_158762	7.442E-41	DC038614 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone xlk109e16ex 5', mRNA sequence
+Rana_pipiens_Transcript_159047	4.804E-58	AGENCOURT_26189339 Blumberg_Cho dorsal blastopore lip Xenopus laevis cDNA clone IMAGE:7297261 3', mRNA sequence
+Rana_pipiens_Transcript_159247	1.21E-88	daf90h09.y1 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:4757608 5' similar to SW:P531_HUMAN Q12888 P53-BINDING PROTEIN 1, mRNA sequence
+Rana_pipiens_Transcript_160609	2.9E-73	AGENCOURT_15594712 NICHD_XGC_Brn1 Xenopus laevis cDNA clone IMAGE:7018839 5', mRNA sequence
+Rana_pipiens_Transcript_160611	1.79E-71	AGENCOURT_15594712 NICHD_XGC_Brn1 Xenopus laevis cDNA clone IMAGE:7018839 5', mRNA sequence
+Rana_pipiens_Transcript_160654		not available
+Rana_pipiens_Transcript_161142	1.928E-145	AGENCOURT_90755115 NICHD_XGC_int_m Xenopus laevis cDNA clone IMAGE:8823825 5', mRNA sequence
+Rana_pipiens_Transcript_161506	4.042E-105	BX844886 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGp998M1810590; IMAGE:4743353 5', mRNA sequence
+Rana_pipiens_Transcript_162206		not available
+Rana_pipiens_Transcript_163060	2.63E-73	be19d05.s1 Xenopus EST library Xenopus laevis cDNA clone be19d05 5', mRNA sequence
+Rana_pipiens_Transcript_163860		not available
+Rana_pipiens_Transcript_165436	1.188E-121	AGENCOURT_10747841 Wellcome CRC pSK egg Xenopus laevis cDNA clone IMAGE:6327074 5', mRNA sequence
+Rana_pipiens_Transcript_166206		not available
+Rana_pipiens_Transcript_166353	0	DC063049 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone xlk156l18ex 5', mRNA sequence
+Rana_pipiens_Transcript_166360	0	DC063049 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone xlk156l18ex 5', mRNA sequence
+Rana_pipiens_Transcript_166500	7.386E-180	AGENCOURT_14149860 NICHD_XGC_Brn1 Xenopus laevis cDNA clone IMAGE:6949942 5', mRNA sequence
+Rana_pipiens_Transcript_167347	4.351E-89	DC075023 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone rxl252o13 3', mRNA sequence
+Rana_pipiens_Transcript_167393	2.64E-63	BJ069522 NIBB Mochii normalized Xenopus tailbud library Xenopus laevis cDNA clone XL053g08 5', mRNA sequence
+Rana_pipiens_Transcript_167408	3.037E-13	BX852137 NICHD_XGC_Ov1 Xenopus laevis cDNA clone IMAGp998C109322; IMAGE:4055361 5', mRNA sequence
+Rana_pipiens_Transcript_167604	5.244E-66	BX848603 NICHD_XGC_Brn1 Xenopus laevis cDNA clone IMAGp998H1010584; IMAGE:4740921 5', mRNA sequence
+Rana_pipiens_Transcript_168236	2.001E-174	BX854506 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGp998C118304; IMAGE:3402562 5', mRNA sequence
+Rana_pipiens_Transcript_168320	5.492E-112	AGENCOURT_70310626 NICHD_XGC_Ov1 Xenopus laevis cDNA clone IMAGE:8330375 5', mRNA sequence
+Rana_pipiens_Transcript_168782	0	AGENCOURT_10491450 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:6636917 5', mRNA sequence
+Rana_pipiens_Transcript_169140	6.382E-119	AGENCOURT_14247342 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6957428 5', mRNA sequence
+Rana_pipiens_Transcript_169535	4.023E-152	AGENCOURT_8510663 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGE:4684178 5', mRNA sequence
+Rana_pipiens_Transcript_169652	4.133E-119	xl11011B01R_1374662 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11011B01 3', mRNA sequence
+Rana_pipiens_Transcript_170057		not available
+Rana_pipiens_Transcript_170340	1.318E-108	AGENCOURT_8216880 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGE:4930360 5', mRNA sequence
+Rana_pipiens_Transcript_170463		not available
+Rana_pipiens_Transcript_170615		not available
+Rana_pipiens_Transcript_170620		not available
+Rana_pipiens_Transcript_172086	1.383E-48	AGENCOURT_11247254 NICHD_XGC_Tad2 Xenopus laevis cDNA clone IMAGE:6874742 5', mRNA sequence
+Rana_pipiens_Transcript_172184		not available
+Rana_pipiens_Transcript_172662		not available
+Rana_pipiens_Transcript_172733		not available
+Rana_pipiens_Transcript_172895	2.662E-118	AGENCOURT_11375292 NICHD_XGC_Tad1 Xenopus laevis cDNA clone IMAGE:6879262 5', mRNA sequence
+Rana_pipiens_Transcript_172922	1.74E-121	AGENCOURT_11375292 NICHD_XGC_Tad1 Xenopus laevis cDNA clone IMAGE:6879262 5', mRNA sequence
+Rana_pipiens_Transcript_173590	2.303E-111	AGENCOURT_14165799 NICHD_XGC_Brn1 Xenopus laevis cDNA clone IMAGE:6953340 5', mRNA sequence
+Rana_pipiens_Transcript_173603		not available
+Rana_pipiens_Transcript_174240	0	AGENCOURT_11043350 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:6865686 5', mRNA sequence
+Rana_pipiens_Transcript_174241	0	AGENCOURT_11043350 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:6865686 5', mRNA sequence
+Rana_pipiens_Transcript_174437		not available
+Rana_pipiens_Transcript_174445		not available
+Rana_pipiens_Transcript_174863		not available
+Rana_pipiens_Transcript_174873	1.448E-148	BP691300 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL464c04ex 5', mRNA sequence
+Rana_pipiens_Transcript_174874	1.453E-148	BP691300 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL464c04ex 5', mRNA sequence
+Rana_pipiens_Transcript_175087		not available
+Rana_pipiens_Transcript_175586	4.595E-162	BP681627 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL438e24ex 5', mRNA sequence
+Rana_pipiens_Transcript_176285		not available
+Rana_pipiens_Transcript_176286	4.317E-151	AGENCOURT_8096136 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGE:5543099 5', mRNA sequence
+Rana_pipiens_Transcript_176854	2.327E-38	AGENCOURT_69679623 NICHD_XGC_Ov1 Xenopus laevis cDNA clone IMAGE:8329500 5', mRNA sequence
+Rana_pipiens_Transcript_177163	9.471E-151	AGENCOURT_15594199 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:7019551 5', mRNA sequence
+Rana_pipiens_Transcript_177175	9.036E-115	AGENCOURT_14238616 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6957786 5', mRNA sequence
+Rana_pipiens_Transcript_177283		not available
+Rana_pipiens_Transcript_177287	3.687E-142	BP696323 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL407a20ex 5', mRNA sequence
+Rana_pipiens_Transcript_178190		not available
+Rana_pipiens_Transcript_178237		not available
+Rana_pipiens_Transcript_178284	1.992E-134	AGENCOURT_8097219 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGE:5542761 5', mRNA sequence
+Rana_pipiens_Transcript_178321		not available
+Rana_pipiens_Transcript_178597	7.081E-16	AGENCOURT_12925568 NICHD_XGC_Te1 Xenopus laevis cDNA clone IMAGE:6930539 5', mRNA sequence
+Rana_pipiens_Transcript_179488	4.502E-129	AGENCOURT_10253744 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:5085087 5', mRNA sequence
+Rana_pipiens_Transcript_179515		not available
+Rana_pipiens_Transcript_179953	7.397E-116	DC102727 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone xl230d04 5', mRNA sequence
+Rana_pipiens_Transcript_179955	7.387E-116	DC102727 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone xl230d04 5', mRNA sequence
+Rana_pipiens_Transcript_180940	3.463E-140	DC036337 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone xlk102d09ex 5', mRNA sequence
+Rana_pipiens_Transcript_180972		not available
+Rana_pipiens_Transcript_181251	8.713E-169	AGENCOURT_75548054 NICHD_XGC_thy Xenopus laevis cDNA clone IMAGE:8550931 5', mRNA sequence
+Rana_pipiens_Transcript_181722	1.401E-95	DC106102 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone xl241d11 5', mRNA sequence
+Rana_pipiens_Transcript_183080	0.141783	AGENCOURT_8148524 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGE:5541856 5', mRNA sequence
+Rana_pipiens_Transcript_184735	6.658E-106	AGENCOURT_10305832 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:5079573 5', mRNA sequence
+Rana_pipiens_Transcript_185756	1.19E-84	AGENCOURT_10493260 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6641998 5', mRNA sequence
+Rana_pipiens_Transcript_185875	1.796E-8	AGENCOURT_14144541 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6948608 3', mRNA sequence
+Rana_pipiens_Transcript_185883	2.628E-120	AGENCOURT_14144206 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6948972 5', mRNA sequence
+Rana_pipiens_Transcript_186213	1.255E-125	BX849375 NICHD_XGC_Ov1 Xenopus laevis cDNA clone IMAGp998J0711133; IMAGE:5048934 5', mRNA sequence
+Rana_pipiens_Transcript_186775	3.199E-116	AGENCOURT_14166569 NICHD_XGC_Brn1 Xenopus laevis cDNA clone IMAGE:6952955 5', mRNA sequence
+Rana_pipiens_Transcript_188037	2.514E-104	AGENCOURT_13324718 NICHD_XGC_Tad2 Xenopus laevis cDNA clone IMAGE:6875740 3', mRNA sequence
+Rana_pipiens_Transcript_188208	1.221E-129	BX853238 NICHD_XGC_Ov1 Xenopus laevis cDNA clone IMAGp998N2411131; IMAGE:5048279 5', mRNA sequence
+Rana_pipiens_Transcript_188368		not available
+Rana_pipiens_Transcript_188831	5.428E-49	U95101 Xenopus laevis mitotic phosphoprotein cDNA Xenopus laevis cDNA clone MP75 5', mRNA sequence
+Rana_pipiens_Transcript_189228	1.969E-100	BP672894 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL412c19ex 5', mRNA sequence
+Rana_pipiens_Transcript_190641		not available
+Rana_pipiens_Transcript_190691	1.821E-137	AGENCOURT_10256285 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:5157210 5', mRNA sequence
+Rana_pipiens_Transcript_191552		not available
+Rana_pipiens_Transcript_191575	2.075E-88	AGENCOURT_14233583 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6958977 5', mRNA sequence
+Rana_pipiens_Transcript_192058	6.778E-153	AGENCOURT_10495993 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6641089 5', mRNA sequence
+Rana_pipiens_Transcript_192542	8.424E-99	DC013927 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone rxlk135o03ex 3', mRNA sequence
+Rana_pipiens_Transcript_193338		not available
+Rana_pipiens_Transcript_193342		not available
+Rana_pipiens_Transcript_193639		not available
+Rana_pipiens_Transcript_194406		not available
+Rana_pipiens_Transcript_195567	2.47465	dc51e06.y1 NICHD_XGC_Emb3 Xenopus laevis cDNA clone IMAGE:3400786 5' similar to SW:TBB2_HUMAN P05217 TUBULIN BETA-2 CHAIN. [1], mRNA sequence
+Rana_pipiens_Transcript_195678	5.512E-157	AGENCOURT_10493149 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6641967 5', mRNA sequence
+Rana_pipiens_Transcript_196103	9.206E-143	AGENCOURT_14214471 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6946793 5', mRNA sequence
+Rana_pipiens_Transcript_196104	9.096E-154	AGENCOURT_14214471 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6946793 5', mRNA sequence
+Rana_pipiens_Transcript_196300		not available
+Rana_pipiens_Transcript_197356	3.137E-112	DC055748 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone xlk64m10ex 5', mRNA sequence
+Rana_pipiens_Transcript_197358	6.88E-109	DC055748 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone xlk64m10ex 5', mRNA sequence
+Rana_pipiens_Transcript_197364		not available
+Rana_pipiens_Transcript_197700	4.565E-23	DC114990 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone xl270o10 5', mRNA sequence
+Rana_pipiens_Transcript_198725		not available
+Rana_pipiens_Transcript_198727		not available
+Rana_pipiens_Transcript_198728		not available
+Rana_pipiens_Transcript_198948	2.412E-122	xl11052E01F_1378368 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11052E01 5', mRNA sequence
+Rana_pipiens_Transcript_200282		not available
+Rana_pipiens_Transcript_200876		not available
+Rana_pipiens_Transcript_202520	7.294E-130	AGENCOURT_10301042 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:5156242 5', mRNA sequence
+Rana_pipiens_Transcript_203714	6.573E-157	AGENCOURT_10301139 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:5156296 5', mRNA sequence
+Rana_pipiens_Transcript_203864		not available
+Rana_pipiens_Transcript_203866	3.206E-108	xl11052B10F_1374077 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11052B10 5', mRNA sequence
+Rana_pipiens_Transcript_204617	6.8E-99	AGENCOURT_11030644 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6861083 5', mRNA sequence
+Rana_pipiens_Transcript_204631	1.073E-98	AGENCOURT_11030644 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6861083 5', mRNA sequence
+Rana_pipiens_Transcript_204886	6.34E-133	AGENCOURT_10492312 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6640739 5', mRNA sequence
+Rana_pipiens_Transcript_205317		not available
+Rana_pipiens_Transcript_206041	1.596E-61	xl11009B01R_1374516 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11009B01 3', mRNA sequence
+Rana_pipiens_Transcript_207545	0	BX853811 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGp998B058300; IMAGE:3400996 5', mRNA sequence
+Rana_pipiens_Transcript_208761		not available
+Rana_pipiens_Transcript_209586		not available
+Rana_pipiens_Transcript_210342		not available
+Rana_pipiens_Transcript_211113	6.571E-173	BJ072996 NIBB Mochii normalized Xenopus tailbud library Xenopus laevis cDNA clone XL108j11 5', mRNA sequence
+Rana_pipiens_Transcript_212168		not available
+Rana_pipiens_Transcript_212313	8.438E-132	BP701009 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL500c21ex 5', mRNA sequence
+Rana_pipiens_Transcript_216395		not available
+Rana_pipiens_Transcript_216398	9.559E-126	xl11058E06F_1379469 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11058E06 5', mRNA sequence
+Rana_pipiens_Transcript_217808	5.944E-87	XLTCL107 Cornea-lens transdifferentiation library Xenopus laevis cDNA clone L107 5', mRNA sequence
+Rana_pipiens_Transcript_218718	6.068E-130	AGENCOURT_8097556 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGE:5572758 5', mRNA sequence
+Rana_pipiens_Transcript_219873	2.136E-169	AGENCOURT_8216873 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGE:4930216 5', mRNA sequence
+Rana_pipiens_Transcript_219935		not available
+Rana_pipiens_Transcript_224113	3.834E-89	AGENCOURT_10184124 NICHD_XGC_Ov1 Xenopus laevis cDNA clone IMAGE:6318438 5', mRNA sequence
+Rana_pipiens_Transcript_224271	8.124E-139	xl11018B02F_1290118 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11018B02 5', mRNA sequence
+Rana_pipiens_Transcript_224400	1.011E-81	AGENCOURT_15523952 NICHD_XGC_Kid1 Xenopus laevis cDNA clone IMAGE:7010506 5', mRNA sequence
+Rana_pipiens_Transcript_224612		not available
+Rana_pipiens_Transcript_226324	1.152E-147	AGENCOURT_15521031 NICHD_XGC_Kid1 Xenopus laevis cDNA clone IMAGE:7008816 5', mRNA sequence
+Rana_pipiens_Transcript_228609		not available
+Rana_pipiens_Transcript_228612		not available
+Rana_pipiens_Transcript_229693	3.913E-107	BX854072 NICHD_XGC_Li1 Xenopus laevis cDNA clone IMAGp998A168293; IMAGE:3398295 5', mRNA sequence
+Rana_pipiens_Transcript_229889		not available
+Rana_pipiens_Transcript_230198		not available
+Rana_pipiens_Transcript_231122		not available
+Rana_pipiens_Transcript_231654	3.915E-122	xl11047E07R_1377460 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11047E07 3', mRNA sequence
+Rana_pipiens_Transcript_232281	5.94E-142	AGENCOURT_54833623 NICHD_XGC_Emb9 Xenopus laevis cDNA clone IMAGE:7975990 5', mRNA sequence
+Rana_pipiens_Transcript_233599	3.465E-156	AGENCOURT_15211300 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGE:5440023 5', mRNA sequence
+Rana_pipiens_Transcript_234697	8.255E-88	DC131668 Yamamoto/Hyodo-Miura NIBB/NBRP Xenopus DMZ pCS2p+ cDNA library Xenopus laevis cDNA clone xl328m03 5', mRNA sequence
+Rana_pipiens_Transcript_235962	3.194E-85	xl11060B01F_1379729 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11060B01 5', mRNA sequence
+Rana_pipiens_Transcript_236043	1.718E-138	AGENCOURT_10493984 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6640171 5', mRNA sequence
+Rana_pipiens_Transcript_236339		not available
+Rana_pipiens_Transcript_236345	0.209745	xl11006G03F_1401281 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11006G03 5', mRNA sequence
+Rana_pipiens_Transcript_236733	1.847E-176	AGENCOURT_15509314 NICHD_XGC_Kid1 Xenopus laevis cDNA clone IMAGE:7008497 5', mRNA sequence
+Rana_pipiens_Transcript_237494		not available
+Rana_pipiens_Transcript_240906	3.392E-65	AGENCOURT_55719108 NICHD_XGC_FaBN Xenopus laevis cDNA clone IMAGE:8077788 5', mRNA sequence
+Rana_pipiens_Transcript_244055	4.475E-149	BX847052 Wellcome CRC pSK St 10 5 Xenopus laevis cDNA clone IMAGp998J138353; IMAGE:3421548 5', mRNA sequence
+Rana_pipiens_Transcript_244058	4.487E-149	BX847052 Wellcome CRC pSK St 10 5 Xenopus laevis cDNA clone IMAGp998J138353; IMAGE:3421548 5', mRNA sequence
+Rana_pipiens_Transcript_244460	8.674E-44	xl11002F01F_1400565 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11002F01 5', mRNA sequence
+Rana_pipiens_Transcript_244463	8.692E-44	xl11002F01F_1400565 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11002F01 5', mRNA sequence
+Rana_pipiens_Transcript_245829	1.152E-32	AGENCOURT_18792157 NICHD_XGC_Te2N Xenopus laevis cDNA clone IMAGE:7205965 5', mRNA sequence
+Rana_pipiens_Transcript_248132	4.175E-157	AGENCOURT_54834314 NICHD_XGC_Emb10 Xenopus laevis cDNA clone IMAGE:7980516 5', mRNA sequence
+Rana_pipiens_Transcript_248133	4.17E-157	AGENCOURT_54834314 NICHD_XGC_Emb10 Xenopus laevis cDNA clone IMAGE:7980516 5', mRNA sequence
+Rana_pipiens_Transcript_248154	8.837E-154	AGENCOURT_54834314 NICHD_XGC_Emb10 Xenopus laevis cDNA clone IMAGE:7980516 5', mRNA sequence
+Rana_pipiens_Transcript_249214	5.372E-86	AGENCOURT_11069826 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6857395 5', mRNA sequence
+Rana_pipiens_Transcript_249783	7.769E-37	AGENCOURT_8671037 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGE:4681429 5', mRNA sequence
+Rana_pipiens_Transcript_249784	1.941E-16	AGENCOURT_14164868 NICHD_XGC_Brn1 Xenopus laevis cDNA clone IMAGE:6951924 5', mRNA sequence
+Rana_pipiens_Transcript_250687		not available
+Rana_pipiens_Transcript_253050		not available
+Rana_pipiens_Transcript_255312		not available
+Rana_pipiens_Transcript_255687	1.155E-153	BX846975 NICHD_XGC_He1 Xenopus laevis cDNA clone IMAGp998E0810126; IMAGE:4408303 5', mRNA sequence
+Rana_pipiens_Transcript_257446		not available
+Rana_pipiens_Transcript_259190		not available
+Rana_pipiens_Transcript_259305	9.466E-164	DC051709 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone xlk149p04ex 5', mRNA sequence
+Rana_pipiens_Transcript_260340	5.587E-167	AGENCOURT_11041807 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:6865921 5', mRNA sequence
+Rana_pipiens_Transcript_260350	5.698E-167	AGENCOURT_11041807 NICHD_XGC_Emb1 Xenopus laevis cDNA clone IMAGE:6865921 5', mRNA sequence
+Rana_pipiens_Transcript_262285	1.507E-37	AGENCOURT_14214434 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6946549 5', mRNA sequence
+Rana_pipiens_Transcript_267005		not available
+Rana_pipiens_Transcript_267592		not available
+Rana_pipiens_Transcript_268195	9.867E-43	xl11023H01R_1375910 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11023H01 3', mRNA sequence
+Rana_pipiens_Transcript_269056		not available
+Rana_pipiens_Transcript_271532	1.301E-101	AGENCOURT_18789587 NICHD_XGC_Te2N Xenopus laevis cDNA clone IMAGE:7202019 5', mRNA sequence
+Rana_pipiens_Transcript_273262	5.895E-29	DC059715 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone xlk76c21ex 5', mRNA sequence
+Rana_pipiens_Transcript_276181	3.537E-108	AGENCOURT_14235966 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6959539 5', mRNA sequence
+Rana_pipiens_Transcript_279223	8.992E-138	BP681665 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL438g16ex 5', mRNA sequence
+Rana_pipiens_Transcript_279741		not available
+Rana_pipiens_Transcript_280338	3.191E-81	AGENCOURT_15200552 NICHD_XGC_Sp1 Xenopus laevis cDNA clone IMAGE:5511566 5', mRNA sequence
+Rana_pipiens_Transcript_280614		not available
+Rana_pipiens_Transcript_281853	1.311E-105	BX844017 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGp998C2210618; IMAGE:4755405 5', mRNA sequence
+Rana_pipiens_Transcript_283337		not available
+Rana_pipiens_Transcript_284060	8.619E-127	BX845845 Cho Li treated gastrula Xenopus laevis cDNA clone IMAGp998L249037; IMAGE:3750695 5', mRNA sequence
+Rana_pipiens_Transcript_285801		not available
+Rana_pipiens_Transcript_286974		not available
+Rana_pipiens_Transcript_286975		not available
+Rana_pipiens_Transcript_287482	3.827E-167	AGENCOURT_8222709 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGE:5537371 5', mRNA sequence
+Rana_pipiens_Transcript_288378	7.637E-169	AGENCOURT_10492588 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6642748 5', mRNA sequence
+Rana_pipiens_Transcript_291945	5.558E-108	AGENCOURT_18791371 NICHD_XGC_Te2N Xenopus laevis cDNA clone IMAGE:7204068 5', mRNA sequence
+Rana_pipiens_Transcript_294253	3.641E-47	xl11019E07F_1290256 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11019E07 5', mRNA sequence
+Rana_pipiens_Transcript_294408	4.122E-126	AGENCOURT_10253709 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:5085013 5', mRNA sequence
+Rana_pipiens_Transcript_296790	0	AGENCOURT_8098588 NICHD_XGC_Emb4 Xenopus laevis cDNA clone IMAGE:5570621 5', mRNA sequence
+Rana_pipiens_Transcript_297356	3.657E-160	AGENCOURT_10496580 NICHD_XGC_OO1 Xenopus laevis cDNA clone IMAGE:6643718 5', mRNA sequence
+Rana_pipiens_Transcript_299420	2.366E-42	AGENCOURT_13052998 NICHD_XGC_Te1 Xenopus laevis cDNA clone IMAGE:6929085 5', mRNA sequence
+Rana_pipiens_Transcript_307240	5.098E-136	BX845364 NICHD_XGC_Sp1 Xenopus laevis cDNA clone IMAGp998C229473; IMAGE:4173261 5', mRNA sequence
+Rana_pipiens_Transcript_310305		not available
+Rana_pipiens_Transcript_310308	2.233E-71	AGENCOURT_39733422 NICHD_XGC_Te2N Xenopus laevis cDNA clone IMAGE:7765853 5', mRNA sequence
+Rana_pipiens_Transcript_313828		not available
+Rana_pipiens_Transcript_314203		not available
+Rana_pipiens_Transcript_318710	1.602E-117	xl11012E10F_1289582 Xenopus ORFeome version 1.0 library Xenopus laevis cDNA clone xl11012E10 5', mRNA sequence
+Rana_pipiens_Transcript_321864		not available
+Rana_pipiens_Transcript_322537	3.538E-71	AGENCOURT_90755199 NICHD_XGC_int_m Xenopus laevis cDNA clone IMAGE:8823638 5', mRNA sequence
+Rana_pipiens_Transcript_323401		not available
+Rana_pipiens_Transcript_329174	4.967E-163	DC022226 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone rxlk64h05ex 3', mRNA sequence
+Rana_pipiens_Transcript_337017		not available
+Rana_pipiens_Transcript_337019		not available
+Rana_pipiens_Transcript_337302	1.283E-129	DC055018 Osada Taira anterior endomesoderm (AEM) pCS105 cDNA library Xenopus laevis cDNA clone xlk62h11ex 5', mRNA sequence
+Rana_pipiens_Transcript_353056	2.594E-132	AGENCOURT_75548541 NICHD_XGC_thy Xenopus laevis cDNA clone IMAGE:8546729 5', mRNA sequence
+Rana_pipiens_Transcript_407789	1.125E-5	AGENCOURT_14164170 NICHD_XGC_Eye1 Xenopus laevis cDNA clone IMAGE:6949628 3', mRNA sequence
+Rana_pipiens_Transcript_410943	6.532E-91	BX848497 NICHD_XGC_Kid1 Xenopus laevis cDNA clone IMAGp998P089299; IMAGE:4031863 5', mRNA sequence
+Rana_pipiens_Transcript_463385	2.36818	AGENCOURT_69679379 NICHD_XGC_Ov1 Xenopus laevis cDNA clone IMAGE:8329342 5', mRNA sequence
+Rana_pipiens_Transcript_463386	2.31857	AGENCOURT_69679379 NICHD_XGC_Ov1 Xenopus laevis cDNA clone IMAGE:8329342 5', mRNA sequence
+Rana_pipiens_Transcript_475763		not available
+Rana_pipiens_Transcript_483564	7.258E-21	dd22d09.y1 Wellcome CRC pSK St 10 5 Xenopus laevis cDNA clone IMAGE:3421120 5', mRNA sequence
+Rana_pipiens_Transcript_585955	0.0409922	AGENCOURT_26187923 Blumberg_Cho dorsal blastopore lip Xenopus laevis cDNA clone IMAGE:7295924 3', mRNA sequence
+Rana_pipiens_Transcript_616852	1.274E-26	BP691870 Osada Taira anterior neuroectoderm (ANE) pCS105 cDNA library Xenopus laevis cDNA clone XL466l02ex 5', mRNA sequence
+Rana_pipiens_Transcript_626846		not available
