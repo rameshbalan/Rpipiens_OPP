@@ -26,7 +26,7 @@ salmon index -t reference_transcriptome.fasta -i reference_transcriptome_index
 
 ## Expression Quantification
 
-This shell script will loop through each sample and will quantify the expression
+This shell script (quants.sh) will loop through each sample and will quantify the expression 
 ```
 #!/bin/bash
 for fn in ../Rpip_C{1..6};
@@ -47,9 +47,8 @@ salmon quantmerge --quants Rpip_C1_quant Rpip_C4_quant Rpip_T1_quant Rpip_T4_qua
 ```
 
 ## Differential Expression Analysis:
-//***** In progress
-*****//
-This R script will look at the correlation between samples of a treatment and plot the differential expression.
+
+This R script (DE.R) will look at the correlation between samples of a treatment and plot the differential expression.
 
 ```
 #Importing All the libraries
@@ -96,36 +95,17 @@ resultsNames(dds)
 resLFC <- lfcShrink(dds, coef="condition_test_vs_control", type="apeglm")
 resLFC
 summary(resLFC)
-
-#How many adjusted p-values were less than 0.1?
-sum(res$padj < 0.1, na.rm=TRUE)
-
-# Getting the results from the dataset object. The default cutoff is 0.1 so changing alpha to 0.05. 
-res05 <- results(dds, alpha=0.05, name = "condition_test_vs_control")
-summary(res05)
-
-# Get the number of genes differentially expressed
-sum(res05$padj < 0.05, na.rm=TRUE)
-
-# Plot the fold change 
-plotMA(resLFC, ylim=c(-10,10))
-#idx <- identify(res$baseMean, res$log2FoldChange)
-#rownames(res)[idx]
-
+plotMA(resLFC, ylim = c(10,10))
 ```
 
 ## Preliminary Results
 
-1. Number of significantly Upregulated and Downregulated Genes.
+1. We have number of significantly Upregulated `84` and Downregulated `387` transcripts.
 
-```
-out of 142585 with nonzero total read count
-adjusted p-value < 0.05
-LFC > 0 (up)     : 358, 0.25% 
-LFC < 0 (down)   : 351, 0.25% 
-outliers [1]     : 22711, 16% 
-low counts [2]   : 66668, 47% 
-(mean count < 5)
-```
+2. Total Number of Differentially Expressed transcripts.`471`
 
-2. Total Number of Differentially Expressed Genes : `709`
+3. PCA plot for group the samples.
+
+4. MA plot (_in progress_) for visualising up and down regulated transcripts.
+
+5. GO Analysis (_in progress_) for annotating and grouping DE transcripts in various related pathways.
