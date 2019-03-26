@@ -16,7 +16,7 @@ fastqc -o fastqc_results case_1.fastq.gz case_2.fastq.gz case_3.fastq.gz case_4.
 cd fastqc_results
 multiqc .
 ```
-> Look at the MultiQC report and see if the adapters are trimmed and do a overall QC inspection.
+> MultiQC report to do an overall QC inspection.
 
 ## Index the transcriptome
 
