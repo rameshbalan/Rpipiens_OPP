@@ -68,7 +68,7 @@ txi <- tximport(files, type="salmon",txOut=TRUE)
 #creating a DE dataset object using the samples file and all the quantification files
 ddsTxi <- DESeqDataSetFromTximport(txi,
                                    colData = samples,
-                                   design = ~ condition)
+                                   design = ~ condition + dev_stage)
 ddsTxi
 
 # Running Differential Expression
